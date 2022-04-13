@@ -9,7 +9,6 @@
   "author": "Adriana Šturlan",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.26.1",
-    "express": "^4.17.3"
+    "axios": "^0.26.1"
   }
 }
