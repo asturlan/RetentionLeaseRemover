@@ -2,9 +2,9 @@
   "name": "retainleasedel",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node main.js"
   },
   "author": "Adriana Šturlan",
   "license": "ISC",
