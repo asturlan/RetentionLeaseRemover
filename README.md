@@ -3,7 +3,7 @@ The tool goes trough each pipeline run and deletes leases that retain build. You
 
 ## How to use
 
-edit config/config.json with following parameters:
+create and edit config/config.json with following parameters:
 
 {
     "BASE_API_URL": https://{organization}/{project}/_apis
